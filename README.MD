@@ -18,7 +18,9 @@ blender-pop-tools/
 │
 ├── characters/              # Templates de figurines complètes
 │   ├── cyber_knight.py     # Chevalier cyberpunk (néon cyan/magenta)
-│   └── chevalier.py     
+│   └── chevalier.py 
+    └── samourai.py
+    └── gladiateur.py   
 │
 ├── props/                   # (à venir) Accessoires : armes, boucliers, socles…
 ├── materials/               # (à venir) Bibliothèque de matériaux réutilisables
@@ -31,7 +33,10 @@ blender-pop-tools/
 
 <p align="center">
   <img src="assets/chevalier.png" alt="Chevalier" width="48%"> &nbsp; &nbsp; 
-  <img src="assets/cyber_knight.png" alt="Cyber Knight" width="48%">
+  <img src="assets/cyber_knight.png" alt="Cyber Knight" width="48%">&nbsp; &nbsp; 
+  <img src="assets/samourai.png" alt="Cyber Knight" width="48%">&nbsp; &nbsp; 
+  <img src="assets/gladiateur.png" alt="Cyber Knight" width="48%">
+
 </p>
 
 ---
