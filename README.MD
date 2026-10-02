@@ -40,8 +40,8 @@ blender-pop-tools/
 
 | Template | Fichier | Style | Points forts |
 |---|---|---|---|
-| **Cyber Knight** | `characters/cyber_knight.py` | Chevalier néon | Casque, épée énergétique, bouclier holographique, studio 2 lumières |
-| **Neon Runner** | `characters/neon_runner.py` | Cyberpunk urbain | Visière LED, mohawk néon, bras cybernétique, katana, câbles, sol mouillé, enseigne néon |
+| **chevalier** | `characters/chevalier.py` | Chevalier néon | Casque, épée énergétique, bouclier holographique, studio 2 lumières |
+| **cyber_knight** | `characters/cyber_knight.py` | Cyberpunk urbain | Visière LED, mohawk néon, bras cybernétique, katana, câbles, sol mouillé, enseigne néon |
 
 ---
 
