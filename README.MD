@@ -33,8 +33,8 @@ blender-pop-tools/
 
 <p align="center">
   <img src="assets/chevalier.png" alt="Chevalier" width="48%"> &nbsp; &nbsp; 
-  <img src="assets/cyber_knight.png" alt="Cyber Knight" width="48%">&nbsp; &nbsp; 
-  <img src="assets/samourai.png" alt="Cyber Knight" width="48%">&nbsp; &nbsp; 
+  <img src="assets/cyber_knight.png" alt="Cyber Knight" width="48%">&nbsp; 
+  <img src="assets/samourai.png" alt="Cyber Knight" width="48%">&nbsp; 
   <img src="assets/gladiateur.png" alt="Cyber Knight" width="48%">
 
 </p>
